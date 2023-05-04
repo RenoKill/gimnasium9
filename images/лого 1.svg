@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="209.35828mm"
+   height="80.755348mm"
+   viewBox="0 0 209.35828 80.755348"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="лого 1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4912879"
+     inkscape:cx="373.50267"
+     inkscape:cy="238.04928"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1468"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#030303;stop-opacity:1;"
+         offset="0"
+         id="stop1466" />
+    </linearGradient>
+    <rect
+       x="116.67767"
+       y="156.91135"
+       width="545.16638"
+       height="75.102867"
+       id="rect514" />
+  </defs>
+  <g
+     inkscape:label="Шар 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.51748539,-0.02701298)">
+    <rect
+       style="fill:#aa8800;stroke-width:0.248613"
+       id="rect644"
+       width="209.35828"
+       height="80.755348"
+       x="0.51748538"
+       y="0.027012976"
+       ry="7.6481395" />
+    <path
+       id="rect111"
+       style="fill:#000000;fill-opacity:0.6;stroke-width:0.133544"
+       d="M 6.1101083,5.4259435 V 38.267565 H 9.6638899 L 9.6638888,9.250083 50.48412,9.4750274 V 5.4259435 H 10.291086 6.1624777 Z"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       id="rect111-3"
+       style="fill:#000000;fill-opacity:0.6;stroke-width:0.131746"
+       d="m 202.83547,74.729291 0.0195,-34.946371 -3.89711,-0.002 0.19161,31.2651 -39.89217,0.2058 -0.002,3.45632 39.47403,0.01917 4.05476,0.0021 z"
+       sodipodi:nodetypes="ccccccccc" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.31177687,0,0,0.33545815,-10.772052,-24.042135)"
+       id="text512"
+       style="font-size:37.3333px;white-space:pre;shape-inside:url(#rect514);shape-padding:0.670561;display:inline;fill:#000000;fill-opacity:0.7;stroke:none;stroke-width:0.819413;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="117.34766"
+         y="198.73899"
+         id="tspan3730"><tspan
+           style="font-weight:bold;font-size:45.3333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold'"
+           id="tspan3726">Калуська гімназія № 9</tspan><tspan
+           style="font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB'"
+           id="tspan3728"> </tspan></tspan></text>
+  </g>
+</svg>

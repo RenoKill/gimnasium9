@@ -1,0 +1,117 @@
+html {
+    font-family: "Shantell_Sans variant0", Tofu;
+}
+
+body {
+    margin: 0;
+}
+
+.header {
+    margin: 0;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #74b3fa;
+}
+
+.header img {
+    margin: 0;
+    height: 59px;
+}
+
+.header .main-logo {
+    display: flex;
+
+}
+
+.header .link-list li {
+    padding: 1vw 30px;
+    font-size: 1.3rem;
+    
+    text-decoration: none;
+    display: inline;
+    align-items: center;
+    justify-content: center;
+}
+
+.header .link-list li:last-of-type {
+    margin-right: 50px;
+}
+
+
+.header .link-list li:hover {
+    border-radius: 10px;
+    background-color: #064a9e;
+}
+.header .link-list li a {
+    text-decoration: none;
+    color: #031831;
+}
+
+.header .link-list li a {
+    text-decoration: none;
+    color: #031831;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    background: linear-gradient(-45deg, rgb(3, 30, 41),rgb(30, 56, 66));
+    color:rgb(156, 158, 158);
+}
+
+main div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+main h1 {
+    font-size: 4.5em;
+    color: azure;
+}
+
+main hr {
+    margin: 20px;
+    width: 90%;
+    box-sizing: 3px;
+    border-color: rgb(156, 158, 158);
+}
+
+main .litel-about-us {
+    width: 100%;
+}
+
+main .stend {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+main .stend  img { 
+    margin-bottom: 10px;
+    width: 30%;
+    height: 220px;
+    background-color: antiquewhite;
+}
+
+footer {
+    color: rgb(156, 158, 158);
+    background: linear-gradient(-45deg, rgb(3, 30, 41),rgb(30, 56, 66));
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+footer .adress {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+
+
